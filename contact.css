@@ -114,13 +114,6 @@ form textarea {
     height: 200px;
 }
 
-footer {
-    background-color: rgb(0, 0, 139);
-    color: #ecf0f1;
-    padding: 16px 0;
-    align-items: center;
-}
-
 form button {
     background-color: #182c61;
     color: #ecf0f1;
@@ -134,4 +127,11 @@ form button:hover {
 
 input:focus, textarea:focus {
     outline-color: rgb(0, 0, 139);
+}
+
+footer {
+    background-color: rgb(0, 0, 139);
+    color: #ecf0f1;
+    padding: 16px 0;
+    align-items: center;
 }
