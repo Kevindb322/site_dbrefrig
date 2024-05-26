@@ -129,6 +129,12 @@ section h3 {
     font-size: 28px;
 }
 
+#main,
+#contact,
+#about {
+    background-color: rgba(0, 0, 139,0.1);
+}
+
 footer {
     background-color: rgb(0, 0, 139);
     color: #ecf0f1;
